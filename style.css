@@ -1,0 +1,15 @@
+html{
+    background-color: azure;
+}
+h1{
+    color:aqua;
+}
+/* can use #num num num to use hexadecimal color */
+tr{
+    background-color: #000;
+    color:firebrick;
+}
+
+td{
+    color:red;
+}
